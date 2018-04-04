@@ -1,0 +1,89 @@
+h1
+{
+	color: #212121;
+}
+
+.headbar
+{
+	background-color: #525354;
+	left: 0;
+	right: 0;
+	top: 0;
+	height: 70px;
+	padding-left: 40px;
+	padding-top: 45px;
+	position: fixed;
+	z-index: 9;
+}
+
+.toolbar
+{
+	background-color: #303030;
+	left: 0;
+	right: 0;
+	top: 100px;
+	padding-top: 15px;
+	padding-left: 20px;
+	height: 40px;
+	position: fixed;
+	z-index: 10;
+}
+
+.big_entry
+{	
+	color: white;
+	font-size: 20pt;
+	font-family: Arial;
+}
+
+.small_entry
+{	
+	color: white;
+	font-size: 14pt;
+	font-family: Arial;
+}
+
+body
+{
+	background-color: #161616;	
+}
+
+.content
+{
+	background-color: white;
+	color: black;
+	position: relative;
+	z-index: 5;
+	padding: 30px;
+	margin-top: 140px;
+	margin-left: 300px;
+	margin-right: 300px;
+	font-family: Arial;
+	text-align: justify;
+}
+
+footer
+{
+	font-size: 10pt;
+	font-family: Arial;
+	bottom: 0px;
+	text-align: center;
+	color: #6d6d6d;
+}
+
+a {
+	color: #1ac957;
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: none;
+	color: #72c3da;
+}
+a:active {
+    text-decoration: none;
+}
